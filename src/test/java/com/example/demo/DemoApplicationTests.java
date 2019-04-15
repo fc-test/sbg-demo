@@ -1,6 +1,3 @@
-/* ceci est une commentaire */
-/* et une autre */
-/* encore */
 package com.example.demo;
 
 import org.junit.Test;
