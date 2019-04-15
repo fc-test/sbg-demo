@@ -1,4 +1,5 @@
 /* ceci est une commentaire */
+/* et une autre */
 package com.example.demo;
 
 import org.junit.Test;
